@@ -1,0 +1,7 @@
+20:44:08.421 [TestNG-tests-1] INFO  resources.base - Browser Initialised
+20:44:10.548 [TestNG-tests-1] INFO  resources.base - URL Loaded into the Browser
+20:44:14.957 [TestNG-tests-1] INFO  resources.base - Login Link Clicked
+20:44:14.957 [TestNG-tests-1] INFO  resources.base - Restricted User
+20:44:15.065 [TestNG-tests-1] INFO  resources.base - Username Entered
+20:44:15.119 [TestNG-tests-1] INFO  resources.base - Password Entered
+20:44:15.181 [TestNG-tests-1] INFO  resources.base - Sign In

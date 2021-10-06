@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 24.305 s <<< FAILURE! - in TestSuite
+framework.E2E.landingTest.login1  Time elapsed: 0.037 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<Featured []Courses> but was:<Featured [12]Courses>
+	at framework.E2E.landingTest.login1(landingTest.java:33)
+

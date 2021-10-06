@@ -1,0 +1,5 @@
+framework\E2E\loginPage.class
+framework\E2E\landingPage.class
+framework\E2E\App.class
+resources\base.class
+resources\extentReporting.class
