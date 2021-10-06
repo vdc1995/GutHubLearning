@@ -29,9 +29,8 @@ public class landingTest extends base {
 	public void login1() throws IOException {
 		
 		landingPage l1 = new landingPage(driver1);
-		System.out.println("New Code in gitdemo123");
-		System.out.println("New Code in gitdemo123");
-		System.out.println("New Code in gitdemo123");
+//Hello
+		//Hey
 		Assert.assertTrue(l1.nav().isDisplayed());
 		Assert.assertEquals(l1.title().getText(), "Featured 12Courses");
 	}
