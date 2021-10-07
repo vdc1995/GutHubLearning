@@ -31,6 +31,7 @@ public class landingTest extends base {
 		landingPage l1 = new landingPage(driver1);
 //Hello
 		//Hey
+	System.out.println("Hey");
 		Assert.assertTrue(l1.nav().isDisplayed());
 		Assert.assertEquals(l1.title().getText(), "Featured 12Courses");
 	}
